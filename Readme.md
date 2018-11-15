@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomSerialization.cs](./CS/DX WPF Application10/CustomSerialization.cs) (VB: [CustomSerialization.vb](./VB/DX WPF Application10/CustomSerialization.vb))
+* **[MainWindow.xaml](./CS/DX WPF Application10/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DX WPF Application10/MainWindow.xaml.vb))**
+* [MainWindow.xaml.cs](./CS/DX WPF Application10/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DX WPF Application10/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to serialize custom panels and their properties
 
 
