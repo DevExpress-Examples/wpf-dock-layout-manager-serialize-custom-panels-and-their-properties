@@ -50,6 +50,6 @@ To inject the **CustomSerializationController** class in the [DockLayoutManager]
 
 ## More Examples
 
-- [How to save and restore settings of all controls that are present in the UI](https://www.devexpress.com/Support/Center/p/E2272)
-- [How to serialize custom panels and their properties](https://github.com/DevExpress-Examples/how-to-serialize-custom-panels-and-their-properties-e2324)
-- [How to serialize a particular panel layout](https://www.devexpress.com/Support/Center/p/E2320)
+- [WPF Dock Layout Manager - Save and Restore Settings of All Controls That Are Present in the UI](https://github.com/DevExpress-Examples/wpf-dock-layout-manager-save-and-restore-settings-of-all-controls-that-are-present-in-the-ui)
+- [WPF Dock Layout Manager - Save and Restore the DockLayoutManager's Layout](https://github.com/DevExpress-Examples/wpf-dock-layout-manager-save-and-restore-the-dock-layout-managers-layout)
+- [WPF Dock Layout Manager - Serialize a Particular Panel's Layout](https://github.com/DevExpress-Examples/wpf-dock-layout-manager-serialize-a-particular-panels-layout)
