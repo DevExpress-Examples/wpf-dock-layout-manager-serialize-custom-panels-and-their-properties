@@ -1,17 +1,14 @@
-<dx:DXWindow x:Class="DXWpfApplication.MainWindow"
+<dx:ThemedWindow x:Class="DXWpfApplication.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:DXWpfApplication"
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
-
         xmlns:dxd="http://schemas.devexpress.com/winfx/2008/xaml/docking"
         xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
         xmlns:collections="clr-namespace:System.Collections;assembly=mscorlib"
-
-        Title="DXWpfApplication" Height="600" Width="800"
-        dx:ThemeManager.ThemeName="Office2007Blue"
-    >
+        Title="DXWpfApplication" Height="500" Width="800"
+        dx:ThemeManager.ThemeName="VS2019Light">
     <local:MyDockLayoutManager>
         <dxd:LayoutGroup x:Name="group0" >
             <dxd:LayoutPanel x:Name="panel1" Caption="Navigation">
@@ -46,4 +43,4 @@
             </dxd:LayoutGroup>
         </dxd:LayoutGroup>
     </local:MyDockLayoutManager>
-</dx:DXWindow>
+</dx:ThemedWindow>
