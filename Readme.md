@@ -18,7 +18,7 @@ class MyCustomPanel : LayoutPanel {
 
 ```
 
-To mark some panel's properties as serializable, you can apply the `XtraSerializablePropertyAttribute` to the setters of corresponding properties. Target properties can be a dependency or an attached type:
+To mark some panel properties as serializable, you can apply the `XtraSerializablePropertyAttribute` to the setters of corresponding properties. Target properties can be a dependency or an attached type:
 
 
 ```C#
