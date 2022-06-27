@@ -33,7 +33,7 @@ public static int GetProp2(DependencyObject obj) {
 
 The **CustomSerializationController** class extends the [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager) serialization logic when you need to create new panels when you restore a layout.
    
-To inject the **CustomSerializationController** class in the [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager) you can override the `CreateSerializationController()` method.
+To inject the **CustomSerializationController** class in the [DockLayoutManager](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.DockLayoutManager), you can override the `CreateSerializationController()` method.
 
 <!-- default file list -->
 ## Files to Look At
