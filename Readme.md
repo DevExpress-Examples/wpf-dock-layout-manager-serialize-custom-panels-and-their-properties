@@ -8,7 +8,7 @@ This example saves and restores custom panels and its properties.
 
 <img src="https://user-images.githubusercontent.com/12169834/175375397-b8ce5ea2-193e-42aa-b975-6c6a2819d7ec.png" width=800px/>
 
-This example contains a custom panel, derived from the [LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel):
+This example contains a custom panel derived from the [LayoutPanel](https://docs.devexpress.com/WPF/DevExpress.Xpf.Docking.LayoutPanel):
 
 
 ```C#
