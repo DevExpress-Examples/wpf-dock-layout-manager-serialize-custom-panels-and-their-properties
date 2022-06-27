@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # WPF Dock Layout Manager - Serialize Custom Panels and Their Properties
 
-This example saves and restores custom panels and it's properties.
+This example saves and restores custom panels and its properties.
 
 <img src="https://user-images.githubusercontent.com/12169834/175375397-b8ce5ea2-193e-42aa-b975-6c6a2819d7ec.png" width=800px/>
 
