@@ -4,7 +4,7 @@ using DevExpress.Xpf.Docking;
 using System.Windows;
 
 namespace DXWpfApplication {
-    public partial class MainWindow : DXWindow {
+    public partial class MainWindow : ThemedWindow {
         const string LayoutPath = "layout.xml";
         const string App = "DXWpfApplication";
         //
