@@ -39,9 +39,9 @@ To inject the **CustomSerializationController** class in the [DockLayoutManager]
 <!-- default file list -->
 ## Files to Look At
 
-* [CustomSerialization.cs](./CS/DX%20WPF%20Application10/CustomSerialization.cs) (VB: [CustomSerialization.vb](./VB/DX%20WPF%20Application10/CustomSerialization.vb))
-* [MainWindow.xaml](./CS/DX%20WPF%20Application10/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DX%20WPF%20Application10/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DX%20WPF%20Application10/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DX%20WPF%20Application10/MainWindow.xaml.vb))
+* [CustomSerialization.cs](./CS/DX_WPF_Application10/CustomSerialization.cs) (VB: [CustomSerialization.vb](./VB/DX_WPF_Application10/CustomSerialization.vb))
+* [MainWindow.xaml](./CS/DX_WPF_Application10/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DX_WPF_Application10/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DX_WPF_Application10/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DX_WPF_Application10/MainWindow.xaml.vb))
 <!-- default file list end -->
 
 
