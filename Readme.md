@@ -56,7 +56,7 @@ To inject the **CustomSerializationController** class in the [DockLayoutManager]
 - [WPF Dock Layout Manager - Save and Restore the DockLayoutManager's Layout](https://github.com/DevExpress-Examples/wpf-dock-layout-manager-save-and-restore-the-dock-layout-managers-layout)
 - [WPF Dock Layout Manager - Serialize a Particular Panel's Layout](https://github.com/DevExpress-Examples/wpf-dock-layout-manager-serialize-a-particular-panels-layout)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dock-layout-manager-serialize-custom-panels-and-their-properties&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dock-layout-manager-serialize-custom-panels-and-their-properties&~~~was_helpful=no)
 
